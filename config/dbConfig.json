@@ -1,0 +1,7 @@
+{
+    "dbhost": "brm-pro-database-instance.clh3z7d3cwcg.us-east-2.rds.amazonaws.com",
+    "dbport": "3306",
+    "dbuser": "admin",
+    "dbpassword": "BRM-Pr0-1nst4nce!",
+    "dbname": "brm_master"
+}
